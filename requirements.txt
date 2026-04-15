@@ -1,0 +1,27 @@
+# Análisis de datos y computación científica
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+
+# Visualización
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Machine Learning y Deep Learning
+scikit-learn==1.7.2
+tensorflow==2.21.0
+keras==3.12.1
+xgboost==3.2.0
+
+# Estadísticas y Finanzas
+statsmodels==0.14.6
+arch==8.0.0
+yfinance==1.2.0
+
+# Web, Scraping y Base de Datos
+requests==2.33.1
+beautifulsoup4==4.14.3
+peewee==4.0.4
+
+# Utilidades de Interfaz y CLI
+rich==14.3.3
